@@ -59,7 +59,7 @@ sudo pacman -S kitty
 
 ---
 
-## install
+## Install
 
 ```bash
 git clone https://github.com/JuanPerdomo00/glain
