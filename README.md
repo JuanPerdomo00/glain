@@ -67,7 +67,12 @@ cd glain
 go build -o glain .
 sudo mv glain /usr/local/bin/glain
 ```
-
+## Install aur
+```bash
+yay -S glain-git
+# or
+paru -S glain-git
+```
 ---
 
 ## setup
